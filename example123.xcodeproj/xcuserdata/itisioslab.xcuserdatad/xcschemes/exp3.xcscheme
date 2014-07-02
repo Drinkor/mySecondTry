@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "23B460871962B6750051595D"
-               BuildableName = "exp3.app"
-               BlueprintName = "exp3"
-               ReferencedContainer = "container:exp3.xcodeproj">
+               BuildableName = "app.app"
+               BlueprintName = "example123"
+               ReferencedContainer = "container:example123.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "23B460A81962B6750051595D"
-               BuildableName = "exp3Tests.xctest"
-               BlueprintName = "exp3Tests"
-               ReferencedContainer = "container:exp3.xcodeproj">
+               BuildableName = "appTests.xctest"
+               BlueprintName = "example123Tests"
+               ReferencedContainer = "container:example123.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "23B460871962B6750051595D"
-            BuildableName = "exp3.app"
-            BlueprintName = "exp3"
-            ReferencedContainer = "container:exp3.xcodeproj">
+            BuildableName = "app.app"
+            BlueprintName = "example123"
+            ReferencedContainer = "container:example123.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "23B460871962B6750051595D"
-            BuildableName = "exp3.app"
-            BlueprintName = "exp3"
-            ReferencedContainer = "container:exp3.xcodeproj">
+            BuildableName = "app.app"
+            BlueprintName = "example123"
+            ReferencedContainer = "container:example123.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "23B460871962B6750051595D"
-            BuildableName = "exp3.app"
-            BlueprintName = "exp3"
-            ReferencedContainer = "container:exp3.xcodeproj">
+            BuildableName = "app.app"
+            BlueprintName = "example123"
+            ReferencedContainer = "container:example123.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
