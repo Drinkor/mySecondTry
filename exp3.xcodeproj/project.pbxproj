@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		23194BD5196417A20040D482 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 23194BCF196417A20040D482 /* 1.jpeg */; };
+		23194BD6196417A20040D482 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 23194BD0196417A20040D482 /* 2.jpeg */; };
+		23194BD7196417A20040D482 /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 23194BD1196417A20040D482 /* 3.jpeg */; };
+		23194BD8196417A20040D482 /* 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 23194BD2196417A20040D482 /* 4.jpeg */; };
+		23194BD9196417A20040D482 /* 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 23194BD3196417A20040D482 /* 5.jpeg */; };
+		23194BDA196417A20040D482 /* 6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 23194BD4196417A20040D482 /* 6.jpeg */; };
+		231B6F4E1962CF1E007E3887 /* TableViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 231B6F4D1962CF1E007E3887 /* TableViewController2.m */; };
 		23B4608C1962B6750051595D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23B4608B1962B6750051595D /* Foundation.framework */; };
 		23B4608E1962B6750051595D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23B4608D1962B6750051595D /* CoreGraphics.framework */; };
 		23B460901962B6750051595D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23B4608F1962B6750051595D /* UIKit.framework */; };
@@ -21,6 +28,7 @@
 		23B460AD1962B6750051595D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23B4608F1962B6750051595D /* UIKit.framework */; };
 		23B460B51962B6750051595D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 23B460B31962B6750051595D /* InfoPlist.strings */; };
 		23B460B71962B6750051595D /* exp3Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 23B460B61962B6750051595D /* exp3Tests.m */; };
+		23B460C21962B78A0051595D /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23B460C11962B78A0051595D /* TableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +42,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		23194BCF196417A20040D482 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = SOURCE_ROOT; };
+		23194BD0196417A20040D482 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = SOURCE_ROOT; };
+		23194BD1196417A20040D482 /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = SOURCE_ROOT; };
+		23194BD2196417A20040D482 /* 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpeg; sourceTree = SOURCE_ROOT; };
+		23194BD3196417A20040D482 /* 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpeg; sourceTree = SOURCE_ROOT; };
+		23194BD4196417A20040D482 /* 6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpeg; sourceTree = SOURCE_ROOT; };
+		231B6F4C1962CF1E007E3887 /* TableViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController2.h; sourceTree = "<group>"; };
+		231B6F4D1962CF1E007E3887 /* TableViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController2.m; sourceTree = "<group>"; };
 		23B460881962B6750051595D /* exp3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = exp3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23B4608B1962B6750051595D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		23B4608D1962B6750051595D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +69,8 @@
 		23B460B21962B6750051595D /* exp3Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "exp3Tests-Info.plist"; sourceTree = "<group>"; };
 		23B460B41962B6750051595D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		23B460B61962B6750051595D /* exp3Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = exp3Tests.m; sourceTree = "<group>"; };
+		23B460C01962B78A0051595D /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		23B460C11962B78A0051595D /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,11 +132,15 @@
 			children = (
 				23B4609A1962B6750051595D /* AppDelegate.h */,
 				23B4609B1962B6750051595D /* AppDelegate.m */,
+				23B460A31962B6750051595D /* Images.xcassets */,
 				23B4609D1962B6750051595D /* Main.storyboard */,
+				23B460921962B6750051595D /* Supporting Files */,
+				23B460C01962B78A0051595D /* TableViewController.h */,
+				23B460C11962B78A0051595D /* TableViewController.m */,
+				231B6F4C1962CF1E007E3887 /* TableViewController2.h */,
+				231B6F4D1962CF1E007E3887 /* TableViewController2.m */,
 				23B460A01962B6750051595D /* ViewController.h */,
 				23B460A11962B6750051595D /* ViewController.m */,
-				23B460A31962B6750051595D /* Images.xcassets */,
-				23B460921962B6750051595D /* Supporting Files */,
 			);
 			path = exp3;
 			sourceTree = "<group>";
@@ -126,6 +148,12 @@
 		23B460921962B6750051595D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				23194BCF196417A20040D482 /* 1.jpeg */,
+				23194BD0196417A20040D482 /* 2.jpeg */,
+				23194BD1196417A20040D482 /* 3.jpeg */,
+				23194BD2196417A20040D482 /* 4.jpeg */,
+				23194BD3196417A20040D482 /* 5.jpeg */,
+				23194BD4196417A20040D482 /* 6.jpeg */,
 				23B460931962B6750051595D /* exp3-Info.plist */,
 				23B460941962B6750051595D /* InfoPlist.strings */,
 				23B460971962B6750051595D /* main.m */,
@@ -228,9 +256,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23194BDA196417A20040D482 /* 6.jpeg in Resources */,
+				23194BD8196417A20040D482 /* 4.jpeg in Resources */,
 				23B460A41962B6750051595D /* Images.xcassets in Resources */,
+				23194BD9196417A20040D482 /* 5.jpeg in Resources */,
+				23194BD5196417A20040D482 /* 1.jpeg in Resources */,
 				23B460961962B6750051595D /* InfoPlist.strings in Resources */,
+				23194BD7196417A20040D482 /* 3.jpeg in Resources */,
 				23B4609F1962B6750051595D /* Main.storyboard in Resources */,
+				23194BD6196417A20040D482 /* 2.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +286,8 @@
 				23B460A21962B6750051595D /* ViewController.m in Sources */,
 				23B4609C1962B6750051595D /* AppDelegate.m in Sources */,
 				23B460981962B6750051595D /* main.m in Sources */,
+				231B6F4E1962CF1E007E3887 /* TableViewController2.m in Sources */,
+				23B460C21962B78A0051595D /* TableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,6 +492,7 @@
 				23B460BC1962B6750051595D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		23B460BD1962B6750051595D /* Build configuration list for PBXNativeTarget "exp3Tests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +501,7 @@
 				23B460BF1962B6750051595D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
